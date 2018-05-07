@@ -18,11 +18,12 @@ apt-get install git -y
 apt-get install ruby
 
 #Install lolcat
-#Python 2.7 version
-#pip install lolcat -y
 PATH="$PATH:/usr/games"
 
-#Ruby Version
+##Python 2.7 version
+##pip install lolcat -y
+
+##Ruby Version
 wget https://github.com/busyloop/lolcat/archive/master.zip
 unzip master.zip
 cd lolcat-master/bin
