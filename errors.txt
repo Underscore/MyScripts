@@ -1,0 +1,155 @@
+terminator failed to install!
+vim failed to install!
+git failed to install!
+ruby failed to install!
+cowsay failed to install!
+fortune-mod failed to install!
+vlc failed to install!
+nmap failed to install!
+nyancat failed to install!
+figlet failed to install!
+toilet failed to install!
+screen failed to install!
+tmux failed to install!
+Package failed to install!
+Package failed to install on Wed May  9 18:14:35 CDT 2018
+Package failed to install on Wed May  9 18:22:50 CDT 2018
+Package failed to install on Wed May  9 18:22:51 CDT 2018
+Package failed to install on Wed May  9 18:22:52 CDT 2018
+Package failed to install on Wed May  9 18:22:52 CDT 2018
+Package failed to install on Wed May  9 18:22:53 CDT 2018
+screen failed to install on Wed May  9 18:23:34 CDT 2018
+screen failed to install on Wed May  9 18:23:35 CDT 2018
+screen failed to install on Wed May  9 18:23:36 CDT 2018
+screen failed to install on Wed May  9 18:23:36 CDT 2018
+screen failed to install on Wed May  9 18:23:37 CDT 2018
+terminator failed to install on Wed May  9 18:25:04 CDT 2018
+terminator failed to install on Wed May  9 18:25:04 CDT 2018
+terminator failed to install on Wed May  9 18:25:05 CDT 2018
+terminator failed to install on Wed May  9 18:25:05 CDT 2018
+terminator failed to install on Wed May  9 18:25:06 CDT 2018
+vim failed to install on Wed May  9 18:25:07 CDT 2018
+vim failed to install on Wed May  9 18:25:07 CDT 2018
+vim failed to install on Wed May  9 18:25:08 CDT 2018
+vim failed to install on Wed May  9 18:25:09 CDT 2018
+vim failed to install on Wed May  9 18:25:09 CDT 2018
+git failed to install on Wed May  9 18:25:10 CDT 2018
+git failed to install on Wed May  9 18:25:11 CDT 2018
+git failed to install on Wed May  9 18:25:11 CDT 2018
+git failed to install on Wed May  9 18:25:12 CDT 2018
+git failed to install on Wed May  9 18:25:13 CDT 2018
+ruby failed to install on Wed May  9 18:25:13 CDT 2018
+ruby failed to install on Wed May  9 18:25:14 CDT 2018
+ruby failed to install on Wed May  9 18:25:15 CDT 2018
+ruby failed to install on Wed May  9 18:25:15 CDT 2018
+ruby failed to install on Wed May  9 18:25:16 CDT 2018
+cowsay failed to install on Wed May  9 18:25:16 CDT 2018
+cowsay failed to install on Wed May  9 18:25:17 CDT 2018
+cowsay failed to install on Wed May  9 18:25:18 CDT 2018
+cowsay failed to install on Wed May  9 18:25:18 CDT 2018
+cowsay failed to install on Wed May  9 18:25:19 CDT 2018
+fortune-mod failed to install on Wed May  9 18:25:19 CDT 2018
+fortune-mod failed to install on Wed May  9 18:25:20 CDT 2018
+fortune-mod failed to install on Wed May  9 18:25:21 CDT 2018
+fortune-mod failed to install on Wed May  9 18:25:21 CDT 2018
+fortune-mod failed to install on Wed May  9 18:25:22 CDT 2018
+vlc failed to install on Wed May  9 18:25:23 CDT 2018
+vlc failed to install on Wed May  9 18:25:23 CDT 2018
+vlc failed to install on Wed May  9 18:25:24 CDT 2018
+vlc failed to install on Wed May  9 18:25:25 CDT 2018
+vlc failed to install on Wed May  9 18:25:25 CDT 2018
+nmap failed to install on Wed May  9 18:25:26 CDT 2018
+nmap failed to install on Wed May  9 18:25:26 CDT 2018
+nmap failed to install on Wed May  9 18:25:27 CDT 2018
+nmap failed to install on Wed May  9 18:25:28 CDT 2018
+nmap failed to install on Wed May  9 18:25:28 CDT 2018
+nyancat failed to install on Wed May  9 18:25:29 CDT 2018
+nyancat failed to install on Wed May  9 18:25:30 CDT 2018
+nyancat failed to install on Wed May  9 18:25:30 CDT 2018
+nyancat failed to install on Wed May  9 18:25:31 CDT 2018
+nyancat failed to install on Wed May  9 18:25:32 CDT 2018
+figlet failed to install on Wed May  9 18:25:32 CDT 2018
+figlet failed to install on Wed May  9 18:25:33 CDT 2018
+figlet failed to install on Wed May  9 18:25:33 CDT 2018
+figlet failed to install on Wed May  9 18:25:34 CDT 2018
+figlet failed to install on Wed May  9 18:25:35 CDT 2018
+toilet failed to install on Wed May  9 18:25:35 CDT 2018
+toilet failed to install on Wed May  9 18:25:36 CDT 2018
+toilet failed to install on Wed May  9 18:25:37 CDT 2018
+toilet failed to install on Wed May  9 18:25:38 CDT 2018
+toilet failed to install on Wed May  9 18:25:38 CDT 2018
+screen failed to install on Wed May  9 18:25:39 CDT 2018
+screen failed to install on Wed May  9 18:25:39 CDT 2018
+screen failed to install on Wed May  9 18:25:40 CDT 2018
+screen failed to install on Wed May  9 18:25:41 CDT 2018
+screen failed to install on Wed May  9 18:25:41 CDT 2018
+tmux failed to install on Wed May  9 18:25:42 CDT 2018
+tmux failed to install on Wed May  9 18:25:43 CDT 2018
+tmux failed to install on Wed May  9 18:25:43 CDT 2018
+tmux failed to install on Wed May  9 18:25:44 CDT 2018
+tmux failed to install on Wed May  9 18:25:45 CDT 2018
+terminator failed to install on Wed May  9 18:27:44 CDT 2018
+terminator failed to install on Wed May  9 18:27:44 CDT 2018
+terminator failed to install on Wed May  9 18:27:45 CDT 2018
+terminator failed to install on Wed May  9 18:27:46 CDT 2018
+terminator failed to install on Wed May  9 18:27:46 CDT 2018
+vim failed to install on Wed May  9 18:27:47 CDT 2018
+vim failed to install on Wed May  9 18:27:48 CDT 2018
+vim failed to install on Wed May  9 18:27:48 CDT 2018
+vim failed to install on Wed May  9 18:27:49 CDT 2018
+vim failed to install on Wed May  9 18:27:49 CDT 2018
+git failed to install on Wed May  9 18:27:50 CDT 2018
+git failed to install on Wed May  9 18:27:51 CDT 2018
+git failed to install on Wed May  9 18:27:51 CDT 2018
+git failed to install on Wed May  9 18:27:52 CDT 2018
+git failed to install on Wed May  9 18:27:53 CDT 2018
+ruby failed to install on Wed May  9 18:27:53 CDT 2018
+ruby failed to install on Wed May  9 18:27:54 CDT 2018
+ruby failed to install on Wed May  9 18:27:54 CDT 2018
+ruby failed to install on Wed May  9 18:27:55 CDT 2018
+ruby failed to install on Wed May  9 18:27:56 CDT 2018
+cowsay failed to install on Wed May  9 18:27:56 CDT 2018
+cowsay failed to install on Wed May  9 18:27:57 CDT 2018
+cowsay failed to install on Wed May  9 18:27:57 CDT 2018
+cowsay failed to install on Wed May  9 18:27:58 CDT 2018
+cowsay failed to install on Wed May  9 18:27:59 CDT 2018
+fortune-mod failed to install on Wed May  9 18:27:59 CDT 2018
+fortune-mod failed to install on Wed May  9 18:28:00 CDT 2018
+fortune-mod failed to install on Wed May  9 18:28:01 CDT 2018
+fortune-mod failed to install on Wed May  9 18:28:01 CDT 2018
+fortune-mod failed to install on Wed May  9 18:28:02 CDT 2018
+vlc failed to install on Wed May  9 18:28:03 CDT 2018
+vlc failed to install on Wed May  9 18:28:03 CDT 2018
+vlc failed to install on Wed May  9 18:28:04 CDT 2018
+vlc failed to install on Wed May  9 18:28:04 CDT 2018
+vlc failed to install on Wed May  9 18:28:05 CDT 2018
+nmap failed to install on Wed May  9 18:28:06 CDT 2018
+nmap failed to install on Wed May  9 18:28:06 CDT 2018
+nmap failed to install on Wed May  9 18:28:07 CDT 2018
+nmap failed to install on Wed May  9 18:28:08 CDT 2018
+nmap failed to install on Wed May  9 18:28:08 CDT 2018
+nyancat failed to install on Wed May  9 18:28:09 CDT 2018
+nyancat failed to install on Wed May  9 18:28:10 CDT 2018
+nyancat failed to install on Wed May  9 18:28:10 CDT 2018
+nyancat failed to install on Wed May  9 18:28:11 CDT 2018
+nyancat failed to install on Wed May  9 18:28:11 CDT 2018
+figlet failed to install on Wed May  9 18:28:12 CDT 2018
+figlet failed to install on Wed May  9 18:28:13 CDT 2018
+figlet failed to install on Wed May  9 18:28:13 CDT 2018
+figlet failed to install on Wed May  9 18:28:14 CDT 2018
+figlet failed to install on Wed May  9 18:28:15 CDT 2018
+toilet failed to install on Wed May  9 18:28:15 CDT 2018
+toilet failed to install on Wed May  9 18:28:16 CDT 2018
+toilet failed to install on Wed May  9 18:28:17 CDT 2018
+toilet failed to install on Wed May  9 18:28:17 CDT 2018
+toilet failed to install on Wed May  9 18:28:18 CDT 2018
+screen failed to install on Wed May  9 18:28:19 CDT 2018
+screen failed to install on Wed May  9 18:28:19 CDT 2018
+screen failed to install on Wed May  9 18:28:20 CDT 2018
+screen failed to install on Wed May  9 18:28:21 CDT 2018
+screen failed to install on Wed May  9 18:28:21 CDT 2018
+tmux failed to install on Wed May  9 18:28:22 CDT 2018
+tmux failed to install on Wed May  9 18:28:23 CDT 2018
+tmux failed to install on Wed May  9 18:28:23 CDT 2018
+tmux failed to install on Wed May  9 18:28:24 CDT 2018
+tmux failed to install on Wed May  9 18:28:25 CDT 2018
